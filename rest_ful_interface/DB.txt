@@ -1,0 +1,3 @@
+{"id":"1","name":"Dasha","lastName":"Poteshkina","adress":[{"city":"Moscow","street":"Leninsky prospect"}]}
+{"id":"2","name":"Vadim","lastName": "Bazyl","adress":[{"city":"Vidnoe","street":"Bulatnikovo street"}]}
+{"id":"3","name":"Ilya","lastName":"Bashmarov","adress":[{"city":"Saratov","street":"Malyshev street"}]}
